@@ -9,3 +9,6 @@ def contact(request):
 
 def bootcamp(request):
     return render(request,'bootcamp.html')
+
+def signup(request):
+    return render(request,'signup.html')

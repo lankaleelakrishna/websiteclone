@@ -72,5 +72,8 @@ iframe{
     font-size: 30px;
     background-color: gray;
     border-radius: 20px;
-    
+
+}
+.para{
+    display: inline-block;
 }

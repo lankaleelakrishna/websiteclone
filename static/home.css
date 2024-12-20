@@ -130,5 +130,34 @@ p{
     font-weight: bold;
 }
 
-
+#view4{
+    width: 100%;
+}
+#view4 #companees{
+    font-size: 50px;
+    text-align: center;
+    font-family: NeueMachina;
+}
+#view4 #companiesimg{
+    width: 75%;
+    height: 400px;
+    margin: 100px auto;
+    background-image: url(../images/companies.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#view4 #button{
+    width: 400px;
+    padding: 7px 25px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    background-color: #24cfa6;
+    display: block;
+    border-radius: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: NeueMachina;
+    margin: 25px auto;
+}
 

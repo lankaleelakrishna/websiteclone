@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: radial-gradient(circle at center ,teal,black);
+}
+#main{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    margin: 140px auto;
+    align-items: center;
+    box-shadow: -10px -10px 5px black;
+}
+input{
+    width: 200px;
+    height: 30px;
+    box-shadow: -10px -10px 5px black;
+    
+}
+input::placeholder{
+    text-align: center;
+}
+#login{
+    width: 150px;
+    border-radius: 30px;
+    background-color: aquamarine;
+    margin-left: 20px;
+    font-size: 25px;
+    border: none;
+}
